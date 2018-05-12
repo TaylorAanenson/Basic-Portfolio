@@ -1,0 +1,19 @@
+#container1 {
+    width: 900px;
+}
+#name {
+    float: left;
+    margin-left: 100px;
+}
+.nav {
+    float: right;
+    margin-right: 100px;
+}
+#container2 {
+    float: left;
+    margin-top: 50px;
+}
+img {
+    height: 500px;
+    width: 300px;
+}
