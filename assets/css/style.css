@@ -134,6 +134,7 @@ p {
     padding: 7px;
 }
 #message {
+    height: 200px;
     border-color: #dfdfdf;
 }
 #button {
