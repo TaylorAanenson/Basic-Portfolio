@@ -54,7 +54,7 @@ a {
     height: 540px;
 }
 #body-portfolio {
-    height: 600px;
+    height: 820px;
 }
 #body-contact {
     height: 520px;
@@ -85,18 +85,42 @@ p {
     line-height: 25px;
     margin-top: 25px;
 }
-#hangman-text {
-    margin-top: 134px;
+.portfolio-images {
+    height: 200px;
+    width: 300px;
+}
+.portfolio-text {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
     padding: 12px;
     color: white;
-    width: 176px;
+    width: 276px;
     text-align: center;
     background-color: #4aaaa5; 
     position: absolute;
 }
-#hangman-pic {
-    height: 150px;
-    width: 200px;
+#hangman-text {
+    margin-top: 175px;
+}
+#rpg-pic {
+    margin-left: 20px;
+}
+#rpg-text {
+    margin-top: 175px;
+    margin-left: 340px;
+}
+#trivia-text {
+    margin-top: 405px;
+}
+#rutgers-pic {
+    margin-left: 20px;
+}
+#rutgers-text {
+    margin-top: 405px;
+    margin-left: 340px;
+}
+#rock-text {
+    margin-top: 635px;
 }
 #form {
     margin-top: 20px;
