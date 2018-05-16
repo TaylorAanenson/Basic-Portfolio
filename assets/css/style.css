@@ -43,13 +43,21 @@ a {
     border-right: 1px solid;
     border-color: #d6d6d647;
 }
-#body {
+.body {
     margin: auto;
     margin-top: 40px;
-    height: 550px;
     width: 960px;
     background-color: #ffffff;
     border: 1px #dddddd solid;
+}
+#body-index {
+    height: 540px;
+}
+#body-portfolio {
+    height: 600px;
+}
+#body-contact {
+    height: 520px;
 }
 #heading {
     font-weight: bold;
@@ -77,10 +85,14 @@ p {
     line-height: 25px;
     margin-top: 25px;
 }
-#hangman {
-    width: 200px;
+#hangman-text {
+    margin-top: 134px;
+    padding: 12px;
+    color: white;
+    width: 176px;
     text-align: center;
     background-color: #4aaaa5; 
+    position: absolute;
 }
 #hangman-pic {
     height: 150px;
